@@ -1,0 +1,89 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.tugma{
+    color: #6464FF;
+    border-radius: 20px;
+    width: 200px;
+    height: 40px;
+    background-color: white;
+    border: 2px solid #6464FF ;
+    margin: 10px;
+    font-weight: bold;
+    font-family: Arial;
+}
+.tugma:hover{
+    background-color: #6464FF ;
+    color: white;
+}
+.tugmaEnd{
+    color: #6464FF;
+    border-radius: 20px;
+    width: 200px;
+    height: 40px;
+    background-color: white;
+    border: 2px solid #6464FF ;
+    margin: 10px;
+    font-weight: bold;
+    font-family: Arial;
+}
+.tugmaEnd:hover{
+    background-color: #6464FF ;
+    color: white;
+}
+.title{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    color: #6464FF;
+    font-family: Arial;
+}
+.ForButton{
+    text-align: center;
+    margin-top: 60px;
+}
+.foods{
+    color: #6464FF;
+    text-align: center;
+    padding: 15px;
+    border-radius: 25px;
+    border: 1px solid #6464FF;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    margin-top: 15px;
+}
+.price{
+    background-color: white;
+    color: #6464FF;
+    border-radius: 10px;
+    padding: 10px;
+    border: 2px solid #6464FF ;
+    font-family: Arial;
+    font-weight: bold;
+}
+.price:hover{
+    box-shadow:rgba(0, 0, 0, 0.35) 0px 5px 15px; 
+    background-color: #6464FF;
+    color: white;
+
+}
+.JamiCard{
+    border: 2px solid #6464FF;
+    border-radius: 20px;
+    box-shadow:rgba(0, 0, 0, 0.35) 0px 5px 15px; 
+    margin-top: 15px;
+    
+}
+.name{
+    color: #6464FF;
+    font-family: Arial;
+    font-weight: bold;
+}
+.amount{
+    color: #6464FF;
+}
+.all{
+    color: #6464FF;
+    font-family: Arial;
+    font-weight: bold;
+}
